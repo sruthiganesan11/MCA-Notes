@@ -45,7 +45,7 @@ public:
     }
 };
 
-int main() {
+void main() {
     Queue q;
     char choice;
     int value;
